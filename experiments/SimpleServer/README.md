@@ -1,8 +1,8 @@
-#Goal
+# Goal
 * Run a simple server on rasberry pi that has a /stats endpoint to return random drone stats. 
 * Other machines on same network can access the endpoint
 
-#Steps
+# Steps
 
 * turn on pi
 	* Assuming that the pi can connect to internet, allows ssh, etc.
